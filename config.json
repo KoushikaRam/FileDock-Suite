@@ -1,0 +1,40 @@
+{
+  "DOCUMENTS": [
+    ".pdf", ".txt", ".doc", ".docx", ".ppt", ".pptx", ".xls", ".xlsx",
+    ".csv", ".odt", ".ods", ".odp", ".rtf", ".tex", ".epub", ".pages"
+  ],
+  "IMAGES": [
+    ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".tif", ".svg",
+    ".raw", ".heic", ".ico", ".webp"
+  ],
+  "VIDEOS": [
+    ".mp4", ".avi", ".mkv", ".mov", ".flv", ".wmv", ".webm", ".3gp",
+    ".mpeg", ".mpg", ".mts", ".vob", ".ogv"
+  ],
+  "AUDIO": [
+    ".mp3", ".wav", ".aac", ".flac", ".ogg", ".oga", ".m4a", ".wma",
+    ".aiff", ".alac", ".midi"
+  ],
+  "PROGRAMMING FILES": [
+    ".c", ".cpp", ".h", ".hpp", ".py", ".java", ".class", ".jar",
+    ".js", ".ts", ".html", ".css", ".php", ".sql", ".rb", ".go",
+    ".rs", ".swift", ".kt", ".kts", ".sh", ".bat", ".pl", ".lua",
+    ".r", ".ipynb"
+  ],
+  "ARCHIVES": [
+    ".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz", ".iso"
+  ],
+  "INSTALLERS": [
+    ".exe", ".msi", ".apk", ".dmg", ".pkg", ".deb", ".rpm"
+  ],
+  "TORRENTS": [
+    ".torrent"
+  ],
+  "DESIGN & MEDIA": [
+    ".psd", ".ai", ".xd", ".fig", ".sketch", ".indd", ".blend",
+    ".fla", ".svgz"
+  ],
+  "SCRIPTS & CONFIG": [
+    ".json", ".xml", ".yml", ".yaml", ".ini", ".cfg", ".toml"
+  ]
+}
