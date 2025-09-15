@@ -1,9 +1,3 @@
-# File: tk.py
-"""
-FileDock Suite (UI-only enhancement)
-Keeps all original functionality unchanged; only UI/look improved.
-"""
-
 import os
 import sys
 import json
