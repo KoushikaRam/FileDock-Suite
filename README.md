@@ -76,7 +76,7 @@ matplotlib
 🧑‍💻 Author
 
 KoushikaRam
-Smart File Management Enthusiast 🚀
+
 
 📜 License
 
